@@ -1,20 +1,15 @@
-## Hi there, I'm Djenna 👋
+Hi there, I'm Djenna 👋
+Aspiring IT student passionate about technology and innovation. Currently diving into different programming languages and working on exciting projects to enhance my skills.
 
-An aspiring IT student who is currently learning different programming languages. 
-<!--
-**dijena/dijena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current Project: Developing a nutritional self-monitoring dietary mobile application.
 
-Here are some ideas to get you started:
+🌱 Learning Focus: Kotlin (with experience in HTML, CSS, JavaScript, and PHP).
 
-- 🔭 I'm currently working on a nutritional self-monitoring dietary mobile application.
-- 🌱 At the moment I am learning Kotlin.
-- 🤔 I'm looking forward to anything you're willing to teach me!
-- 📫 You can reach me at djennamae1129@gmail.com
--->
-🔭 I'm currently working on a nutritional self-monitoring dietary mobile application.
+💡 Looking for: Opportunities to learn and collaborate on tech projects.
 
-🌱 At the moment I am learning Kotlin. I have some knowledge about HTML, CSS, JavaScript and PHP.
+🤝 Open to: Guidance, mentorship, and all things tech-related.
 
-🤔 If you are willing to teach me then, I am more than delighted to learn!
+📫 Contact: djennamae1129@gmail.com
 
-📫 You can reach me at djennamae1129@gmail.com
+Always enthusiastic about expanding my knowledge and taking on new challenges. Let's connect and build something great!
+
