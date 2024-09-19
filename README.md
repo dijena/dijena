@@ -1,4 +1,4 @@
-## Hi there, I'm Djenna 👋
+# Hi there, I'm Djenna 👋
 Aspiring IT student passionate about technology and innovation. Currently diving into different programming languages and working on exciting projects to enhance my skills.
 
 ## 🔭 Current Project
